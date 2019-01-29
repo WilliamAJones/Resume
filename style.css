@@ -9,9 +9,9 @@ header{
     background-color:rgb(163, 161, 161)
 }
 header h1:hover {
-    Color:red
-    font-size: 80px;
+    color:red;
+    font-size: 40px;
 }
 body {
-    font-family: 'Major Mono Display', monospace;
+    font-family: 'Sarabun', sans-serif;
 }
